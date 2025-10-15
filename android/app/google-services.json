@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "201676927679",
+    "project_id": "mike-split",
+    "storage_bucket": "mike-split.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201676927679:android:76cc1cbe72b820e82fcc0a",
+        "android_client_info": {
+          "package_name": "com.example.jfk_guys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVABZBLPHWl55OAKVVutVslZ4EHk-1U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
